@@ -6,6 +6,6 @@ By incorporating causal inference-based sampling into the replay buffer of a DQN
 ### CI-Based-DQN
 You'll find a Python notebook here detailing an experiment with a DQN's replay buffer and causal inference-based sampling.
 
-### Random Sampling DQN
+### Random-Sampling-DQN
 You'll find a Python notebook here detailing an experiment with a DQN's replay buffer and random sampling.
 [![DOI](https://zenodo.org/badge/702496492.svg)](https://zenodo.org/badge/latestdoi/702496492)
