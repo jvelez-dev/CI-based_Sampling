@@ -12,5 +12,5 @@ You'll find a Python notebook here detailing an experiment with a DQN's replay b
 ### Metricas
 Data collected for both the DQN tuned with CI-based sampling and the DQN sampled at random are included in this folder.
 
-##DOI
+## DOI
 [![DOI](https://zenodo.org/badge/702496492.svg)](https://zenodo.org/badge/latestdoi/702496492)
